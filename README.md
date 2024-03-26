@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently an undergraduate major in CS,IE,Math at UW-Madison, welcome to connect with me by email!
+
 <!--
 **FengxuLi605/FengxuLi605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
